@@ -1,0 +1,15 @@
+body{
+    background-color: pink;
+    color: purple;
+}
+
+#math{
+    background-color:purple;
+    color: pink;
+    border-radius: 10px;
+    font-size: 30px;
+}
+
+#math_addition{
+    font-size: 30px;
+}
